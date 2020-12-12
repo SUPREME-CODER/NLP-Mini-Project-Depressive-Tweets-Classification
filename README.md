@@ -10,7 +10,14 @@ This project aims at analyzing Tweets acquired from Twitter and classify which o
 * The result will be displayed below the Model Selection dropbox.
 
 ## SS of Model classifying the Tweets.
+* Naive Bayes model classifying a Depressive Tweet.
 ![](https://github.com/SUPREME-CODER/NLP-Mini-Project-Depressive-Tweets-Classification/blob/master/Screen-Shots/Capture%201.JPG)
+<br><br>
+* Naive Bayes model classifying a Positive Tweet.
 ![](https://github.com/SUPREME-CODER/NLP-Mini-Project-Depressive-Tweets-Classification/blob/master/Screen-Shots/Capture%202.JPG)
+<br><br>
+* Decision Tree model classifying a Positive Tweet.
 ![](https://github.com/SUPREME-CODER/NLP-Mini-Project-Depressive-Tweets-Classification/blob/master/Screen-Shots/Capture%203.JPG)
+<br><br>
+* Naive Bayes model classifying a Depressive Tweet.
 ![](https://github.com/SUPREME-CODER/NLP-Mini-Project-Depressive-Tweets-Classification/blob/master/Screen-Shots/Capture%204.JPG)
