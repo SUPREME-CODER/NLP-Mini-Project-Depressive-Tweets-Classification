@@ -20,4 +20,11 @@ This project aims at analyzing Tweets acquired from Twitter and classify which o
 ![](https://github.com/SUPREME-CODER/NLP-Mini-Project-Depressive-Tweets-Classification/blob/master/Screen-Shots/Capture%203.JPG)
 <br><br>
 * Naive Bayes model classifying a Depressive Tweet.
-![](https://github.com/SUPREME-CODER/NLP-Mini-Project-Depressive-Tweets-Classification/blob/master/Screen-Shots/Capture%204.JPG)
+![](https://github.com/SUPREME-CODER/NLP-Mini-Project-Depressive-Tweets-Classification/blob/master/Screen-Shots/Capture%204.JPG)srabudhe
+
+
+## Created by:-
+[Abdeali Arsiwala](https://github.com/abdeali88)
+[Deep Doshi](https://github.com/SUPREME-CODER)
+[Sanket Sahasrabudhe]()
+[Sujoy Torvi]()
