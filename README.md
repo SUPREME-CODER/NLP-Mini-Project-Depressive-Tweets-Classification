@@ -24,7 +24,7 @@ This project aims at analyzing Tweets acquired from Twitter and classify which o
 
 
 ## Created by:-
-[Abdeali Arsiwala](https://github.com/abdeali88)
-[Deep Doshi](https://github.com/SUPREME-CODER)
-[Sanket Sahasrabudhe]()
-[Sujoy Torvi]()
+[Abdeali Arsiwala](https://github.com/abdeali88)<br>
+[Deep Doshi](https://github.com/SUPREME-CODER)<br>
+[Sanket Sahasrabudhe]()<br>
+[Sujoy Torvi]()<br>
