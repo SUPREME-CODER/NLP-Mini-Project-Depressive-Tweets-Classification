@@ -1,4 +1,4 @@
-# NLP-Mini-Project-Depressive-Tweets-Classification
+# NLP Mini Project - Depressive Tweets Classification
 This project aims at analyzing Tweets acquired from Twitter and classify which of them are Depressive (Negative) and which are Not (Positive).
 
 ## Run The Project
@@ -20,8 +20,8 @@ This project aims at analyzing Tweets acquired from Twitter and classify which o
 ![](https://github.com/SUPREME-CODER/NLP-Mini-Project-Depressive-Tweets-Classification/blob/master/Screen-Shots/Capture%203.JPG)
 <br><br>
 * Naive Bayes model classifying a Depressive Tweet.
-![](https://github.com/SUPREME-CODER/NLP-Mini-Project-Depressive-Tweets-Classification/blob/master/Screen-Shots/Capture%204.JPG)srabudhe
-
+![](https://github.com/SUPREME-CODER/NLP-Mini-Project-Depressive-Tweets-Classification/blob/master/Screen-Shots/Capture%204.JPG)
+<br><br>
 
 ## Created by:-
 [Abdeali Arsiwala](https://github.com/abdeali88)<br>
